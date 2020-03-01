@@ -6,4 +6,4 @@ script:
 deploy:
   provider: heroku
   api_key: $HEROKU_KEY
-  app: http-server-alif-rf
+  app: http-alif-shorukh
