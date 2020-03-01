@@ -1,120 +1,22 @@
-2020/03/01 07:52:50 start application
-2020/03/01 07:53:08 start application
-2020/03/01 07:53:29 start application
-2020/03/01 07:53:36 can't read file open index.html: The system cannot find the file specified.
-2020/03/01 07:53:36 can't read file open 404.html: The system cannot find the file specified.
-2020/03/01 07:53:36 can't read file open index.html: The system cannot find the file specified.
-2020/03/01 07:53:36 can't read file open 404.html: The system cannot find the file specified.
-2020/03/01 07:53:36 can't read file open index.html: The system cannot find the file specified.
-2020/03/01 07:53:36 can't read file open 404.html: The system cannot find the file specified.
-2020/03/01 07:53:37 can't read file open index.html: The system cannot find the file specified.
-2020/03/01 07:53:37 can't read file open 404.html: The system cannot find the file specified.
-2020/03/01 07:53:37 can't read file open index.html: The system cannot find the file specified.
-2020/03/01 07:53:37 can't read file open 404.html: The system cannot find the file specified.
-2020/03/01 07:53:37 can't read file open index.html: The system cannot find the file specified.
-2020/03/01 07:53:37 can't read file open 404.html: The system cannot find the file specified.
-2020/03/01 07:53:42 can't read file open index.html: The system cannot find the file specified.
-2020/03/01 07:53:42 can't read file open 404.html: The system cannot find the file specified.
-2020/03/01 07:53:42 can't read file open index.html: The system cannot find the file specified.
-2020/03/01 07:53:42 can't read file open 404.html: The system cannot find the file specified.
-2020/03/01 07:53:42 can't read file open index.html: The system cannot find the file specified.
-2020/03/01 07:53:42 can't read file open 404.html: The system cannot find the file specified.
-2020/03/01 07:54:12 can't read file open index.html: The system cannot find the file specified.
-2020/03/01 07:54:12 can't read file open 404.html: The system cannot find the file specified.
-2020/03/01 07:54:12 can't read file open index.html: The system cannot find the file specified.
-2020/03/01 07:54:12 can't read file open 404.html: The system cannot find the file specified.
-2020/03/01 07:54:12 can't read file open index.html: The system cannot find the file specified.
-2020/03/01 07:54:12 can't read file open 404.html: The system cannot find the file specified.
-2020/03/01 07:56:01 incorrect request
-2020/03/01 07:56:01 incorrect request
-2020/03/01 07:56:53 start application
-2020/03/01 07:56:54 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:56:56 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:56:58 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:56:59 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:57:00 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:57:01 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:57:02 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:57:05 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:57:07 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:57:10 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:57:16 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:57:29 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:57:32 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:57:40 can't read file open files/photo.png/download: The system cannot find the path specified.
-2020/03/01 07:57:40 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:57:47 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:57:49 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:57:50 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:58:48 can't read file open files/photo.png/: The filename, directory name, or volume label syntax is incorrect.
-2020/03/01 07:58:48 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:59:12 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:59:14 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 07:59:59 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 08:01:16 incorrect request
-2020/03/01 12:31:40 start application
-2020/03/01 12:31:49 can't read file open index.html: The system cannot find the file specified.
-2020/03/01 12:31:49 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:32:10 can't read file open index.html: The system cannot find the file specified.
-2020/03/01 12:32:10 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:33:10 start application
-2020/03/01 12:33:12 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:33:14 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:33:15 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:33:16 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:33:18 incorrect request
-2020/03/01 12:33:21 can't read file open files/photo.png/download: The system cannot find the path specified.
-2020/03/01 12:33:22 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:33:30 can't read file open files/photo.png/: The filename, directory name, or volume label syntax is incorrect.
-2020/03/01 12:33:30 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:33:33 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:33:37 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:33:47 can't read file open files/photo.png/: The filename, directory name, or volume label syntax is incorrect.
-2020/03/01 12:33:47 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:34:54 incorrect request
-2020/03/01 12:40:30 start application
-2020/03/01 12:40:31 can't read file open files/photo.png/: The filename, directory name, or volume label syntax is incorrect.
-2020/03/01 12:40:32 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:40:33 incorrect request
-2020/03/01 12:40:37 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:40:43 incorrect request
-2020/03/01 12:41:44 incorrect request
-2020/03/01 12:41:44 incorrect request
-2020/03/01 12:42:44 incorrect request
-2020/03/01 12:42:44 incorrect request
-2020/03/01 12:42:48 start application
-2020/03/01 12:42:51 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:42:54 incorrect request
-2020/03/01 12:42:56 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:43:03 can't read file open files/photo.png/download: The system cannot find the path specified.
-2020/03/01 12:43:03 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:43:04 incorrect request
-2020/03/01 12:43:05 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:43:08 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:43:09 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:43:14 incorrect request
-2020/03/01 12:43:16 can't read file open files/photo.jpg/download: The system cannot find the path specified.
-2020/03/01 12:43:16 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:43:18 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:43:19 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:43:24 incorrect request
-2020/03/01 12:43:26 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:43:34 incorrect request
-2020/03/01 12:43:35 can't read file open files/photo.png/: The filename, directory name, or volume label syntax is incorrect.
-2020/03/01 12:43:36 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:43:44 incorrect request
-2020/03/01 12:45:36 incorrect request
-2020/03/01 12:45:36 incorrect request
-2020/03/01 12:46:14 incorrect request
-2020/03/01 12:46:14 incorrect request
-2020/03/01 12:50:25 start application
-2020/03/01 12:50:35 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:50:39 incorrect request
-2020/03/01 12:51:27 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:51:29 incorrect request
-2020/03/01 12:51:33 can't read file open files/photo.png/download: The system cannot find the path specified.
-2020/03/01 12:51:33 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:51:35 can't read file open favicon.ico: The system cannot find the file specified.
-2020/03/01 12:51:39 incorrect request
-2020/03/01 12:51:43 can't read file open files/photo.png/: The filename, directory name, or volume label syntax is incorrect.
-2020/03/01 12:51:49 incorrect request
+2020/03/01 20:49:36 start application
+2020/03/01 20:49:36 can't listen 0.0.0.0:9999 listen tcp 0.0.0.0:9999: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2020/03/01 20:49:36 listen tcp 0.0.0.0:9999: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+2020/03/01 20:49:46 start application
+2020/03/01 20:49:53 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 20:49:54 can't read file open files/photo.png: The system cannot find the file specified.
+2020/03/01 20:49:54 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 20:49:55 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 20:49:56 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 20:49:57 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 20:49:57 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 20:49:58 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 20:50:01 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 20:50:11 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 20:50:12 can't read file open files/photo.png: The system cannot find the file specified.
+2020/03/01 20:50:12 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 20:50:18 can't read file open files/photo.png: The system cannot find the file specified.
+2020/03/01 20:50:18 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 20:50:21 can't read file open files/photo.png: The system cannot find the file specified.
+2020/03/01 20:50:21 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 20:50:26 can't read file open favicon.ico: The system cannot find the file specified.
+2020/03/01 20:50:27 can't read file open favicon.ico: The system cannot find the file specified.
